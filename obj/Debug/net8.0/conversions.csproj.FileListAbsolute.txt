@@ -1,0 +1,14 @@
+C:\Users\zfali\conversions\bin\Debug\net8.0\conversions.exe
+C:\Users\zfali\conversions\bin\Debug\net8.0\conversions.deps.json
+C:\Users\zfali\conversions\bin\Debug\net8.0\conversions.runtimeconfig.json
+C:\Users\zfali\conversions\bin\Debug\net8.0\conversions.dll
+C:\Users\zfali\conversions\bin\Debug\net8.0\conversions.pdb
+C:\Users\zfali\conversions\obj\Debug\net8.0\conversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zfali\conversions\obj\Debug\net8.0\conversions.AssemblyInfoInputs.cache
+C:\Users\zfali\conversions\obj\Debug\net8.0\conversions.AssemblyInfo.cs
+C:\Users\zfali\conversions\obj\Debug\net8.0\conversions.csproj.CoreCompileInputs.cache
+C:\Users\zfali\conversions\obj\Debug\net8.0\conversions.dll
+C:\Users\zfali\conversions\obj\Debug\net8.0\refint\conversions.dll
+C:\Users\zfali\conversions\obj\Debug\net8.0\conversions.pdb
+C:\Users\zfali\conversions\obj\Debug\net8.0\conversions.genruntimeconfig.cache
+C:\Users\zfali\conversions\obj\Debug\net8.0\ref\conversions.dll
