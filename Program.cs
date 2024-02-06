@@ -10,12 +10,15 @@ foreach (string value in values)
 
     {
         totalValue += numericValue;
-        Console.WriteLine("Total:" + totalValue);
+
     }
 
     else
     {
         message += value;
-        Console.WriteLine("Message: " + message);
+
     }
 }
+
+Console.WriteLine("Message: " + message);
+Console.WriteLine("Total: " + totalValue);

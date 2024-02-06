@@ -12,3 +12,4 @@ C:\Users\zfali\conversions\obj\Debug\net8.0\refint\conversions.dll
 C:\Users\zfali\conversions\obj\Debug\net8.0\conversions.pdb
 C:\Users\zfali\conversions\obj\Debug\net8.0\conversions.genruntimeconfig.cache
 C:\Users\zfali\conversions\obj\Debug\net8.0\ref\conversions.dll
+C:\Users\zfali\conversions\obj\Debug\net8.0\conversions.sourcelink.json
